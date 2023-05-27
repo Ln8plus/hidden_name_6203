@@ -1,7 +1,11 @@
 # Verloop-WeatherAPI
 ## Setup
 ### Running this code:
-Note: The following steps require Python & Docker to be already installed on your system.
+Note: The following steps Docker to be already installed on your system.
+If you instead want to run this app without docker you can do so from the command line using 
+```
+python e: weatherAPI.py
+```
 
 1. Firstly you'll need to clone this repo or download the code and extract it in a local folder.
 ```
@@ -42,7 +46,7 @@ http://localhost:9000/weather?city=Monaco&output_format=xml
 ```
 
 JSON Output:
-![image](https://drive.google.com/uc?export=view&id=1tZLUEpdwT9Av809s80T-7Xi_yiyKcmuO)
+![image](https://drive.google.com/uc?export=view&id=1tZLUEpdwT9Av809s80T-7Xi_yiyKcmuO)&nbsp;&nbsp;
 
 XML Output:
-![image](https://drive.google.com/uc?export=view&id=1cDRspPwAwXltwAKdbMvv19zpUb8FB6zB)
+![image](https://drive.google.com/uc?export=view&id=1cDRspPwAwXltwAKdbMvv19zpUb8FB6zB)&nbsp;&nbsp;
