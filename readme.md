@@ -6,6 +6,7 @@ If you instead want to run this app without docker you can do so from the comman
 ```
 python e: weatherAPI.py
 ```
+Be sure to install all the dependencies using the requirements file prior to that. Using a venv is reccomended.
 
 1. Firstly you'll need to clone this repo or download the code and extract it in a local folder.
 ```
